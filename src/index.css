@@ -378,7 +378,7 @@ body {
 }
 
 .member-name {
-  font-size: 0.95rem;
+  font-size: 1.2rem;
   font-weight: 600;
   color: var(--text-main);
   white-space: nowrap;
